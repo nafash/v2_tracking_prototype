@@ -1,6 +1,6 @@
 # Protótipo Etapa 2 — ByteTrack + OSNet
 
-Aplicação local para vídeo de câmera única. Preserva a Etapa 1 e adiciona um módulo experimental de re-identificação visual.
+Aplicação local para vídeo de câmera única. Adiciona um módulo experimental de re-identificação visual.
 
 ## Funcionalidades
 
